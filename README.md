@@ -10,7 +10,7 @@ i modelli verranno valutati in base al tipo di fantasma (random o directional), 
 ## contenuto
 il file di Colab è contenuto nella cartella notebook, per runnare il codice è necessario:
   1. Aprire il notebook `ML_finale.ipynb`  
-   (link Colab: https://colab.research.google.com/drive/12-80epEHLBLDoOJhwwGRjs_32I8xNrKX)
+   (link Colab: https://colab.research.google.com/drive/12-80epEHLBLDoOJhwwGRjS_32l8xNrKX#scrollTo=uu4XLQ6d9pS7)
   2. Eseguire le celle in ordine sequenziale
 
 ## note
